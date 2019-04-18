@@ -23,7 +23,7 @@ public class Swagger2 {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("spring-cloud系统文档  Swagger2 V2.8.0")
+                .title("spring-cloud文档  Swagger2 2.8.0")
                 .version("1.0")
                 .build();
     }
